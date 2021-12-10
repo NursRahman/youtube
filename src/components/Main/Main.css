@@ -1,0 +1,7 @@
+.main{
+    background-color: #001100;
+}
+form{
+    flex-wrap: wrap;
+    flex-direction: column;
+}

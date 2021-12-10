@@ -1,0 +1,28 @@
+
+.output_video{
+    max-width: 90%;
+    margin: 0 auto;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    flex-wrap: wrap;
+    background: #212121;
+    color: white;
+    font-family: "Roboto";
+}
+
+.output_div{
+    width: 25%;
+    background: #212121;
+}
+
+.output_div img{
+    height: auto;
+    width: auto;
+    padding: 1%; 
+    margin: 7px 0;
+}
+
+.output_div p{
+    padding: 3px;
+}

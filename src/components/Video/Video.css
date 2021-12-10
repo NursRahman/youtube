@@ -1,0 +1,19 @@
+*{
+    background-color: #202020;
+    font-family: "Roboto";
+    color: white;
+}
+
+.detailed_video{
+    width: 70%;
+}
+.detailed_video h2{
+    font-size: 32px;
+    margin-left: 2%;
+}
+
+.detailed_video iframe{
+    width: 920px;
+    height: 480px;
+    margin: 2%;
+}
